@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>青龙仓库备份</title>
+    <link href="/2021/11/28/%E9%9D%92%E9%BE%99%E4%BB%93%E5%BA%93%E5%A4%87%E4%BB%BD/"/>
+    <url>/2021/11/28/%E9%9D%92%E9%BE%99%E4%BB%93%E5%BA%93%E5%A4%87%E4%BB%BD/</url>
+    
+    <content type="html"><![CDATA[<h1 id="个人备份，如有侵权联系删除"><a href="#个人备份，如有侵权联系删除" class="headerlink" title="个人备份，如有侵权联系删除"></a>个人备份，如有侵权联系删除</h1><hr><div class="code-toolbar"><pre class="pure-highlightjs line-numbers language-shell"><code class=" language-shell">【l大的备份库】<p>ql repo <a href="https://github.com/chinnkarahoi/jd_scripts.git">https://github.com/chinnkarahoi/jd_scripts.git</a> <span class="token string">“jd_|jx_|getJDCookie”</span> <span class="token string">“activity|backUp”</span> <span class="token string">“^jd[^_]|USER”</span></p><p>【龙珠】<br>ql repo <a href="https://github.com/longzhuzhu/nianyu.git">https://github.com/longzhuzhu/nianyu.git</a> <span class="token string">“qx”</span> “main”</p><p>【混沌】<br>ql repo <a href="https://github.com/whyour/hundun.git">https://github.com/whyour/hundun.git</a> <span class="token string">“quanx”</span> <span class="token string">“tokens|caiyun|didi|donate|fold|Env”</span></p><p>【passerby-b】（需要配合专用ck文件）<br>ql repo <a href="https://github.com/passerby-b/JDDJ.git">https://github.com/passerby-b/JDDJ.git</a> <span class="token string">“jddj_”</span> <span class="token string">“scf_test_event”</span> <span class="token string">“jddj_cookie”</span></p><p>【温某人】</p><p>ql repo <a href="https://github.com/Wenmoux/scripts.git">https://github.com/Wenmoux/scripts.git</a>  <span class="token string">“jd”</span> <span class="token string">“”</span> <span class="token string">“”</span> <span class="token string">“wen”</span></p><p>【柠檬（胖虎）】<br>ql repo <a href="https://github.com/panghu999/panghu.git">https://github.com/panghu999/panghu.git</a> <span class="token string">“jd_”</span></p><p>【zoopanda（动物园）】<br>ql repo <a href="https://github.com/zooPanda/zoo.git">https://github.com/zooPanda/zoo.git</a> <span class="token string">“zoo”</span></p><p>【Ariszy（Zhiyi-N）】</p><p>ql repo <a href="https://github.com/Ariszy/Private-Script.git">https://github.com/Ariszy/Private-Script.git</a> <span class="token string">“JD”</span></p><p>【ddo（hyzaw）】</p><p>ql repo <a href="https://github.com/hyzaw/scripts.git">https://github.com/hyzaw/scripts.git</a> <span class="token string">“ddo_”</span></p><p>【star261】</p><p>ql repo <a href="https://github.com/star261/jd.git">https://github.com/star261/jd.git</a> <span class="token string">“scripts”</span> <span class="token string">“code”</span> </p><p>【zcy01】</p><p>ql repo <a href="https://github.com/ZCY01/daily_scripts.git">https://github.com/ZCY01/daily_scripts.git</a> <span class="token string">“jd_”</span></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2</title>
     <link href="/2021/11/28/02/"/>
     <url>/2021/11/28/02/</url>
